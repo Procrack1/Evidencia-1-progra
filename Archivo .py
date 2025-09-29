@@ -210,5 +210,5 @@ def menu():
         else:
             print("Opción incorrecta, por favor elige un número del 1 al 6.")
         input("\n(Presiona Enter para continuar)")
-if _name_ == "_main_":
+if __name__ == "_main_":
     menu()
